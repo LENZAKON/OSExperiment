@@ -1,0 +1,3 @@
+/home/linzikang/code/code/os/readFile/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/linzikang/code/code/os/readFile/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/linzikang/code/code/os/readFile/cmake-build-debug/CMakeFiles/readFile.dir
